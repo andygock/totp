@@ -1,0 +1,12 @@
+{
+  "name": "local-totp-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsqr": "1.4.0"
+  },
+  "packageManager": "pnpm@12.3.4"
+}
